@@ -100,7 +100,7 @@ This project is a Simple Torrent-like Application (STA) developed for the **Comp
 
 | No. | Full name                 | Student ID |
 | :-: | --------------------------| :--------: |
-| 1   | Nguyễn Huy nHoàng         | 2211091    |
+| 1   | Nguyễn Huy Hoàng          | 2211091    |
 | 2   | Nguyễn Lê Gia Kiệt        | 2211761    |
 | 3   | Nguyễn Chí Thiết          | 2213242    |
 
